@@ -1,6 +1,6 @@
 # 🧑‍💻️ Tech-savvy adventurer 🧳
-🔭 I’m currently a student in Department of Informatics, University of Piraeus.<br>
-🌱 I’m currently learning GCP and Kotlin.<br>
+🔭 I graduated from Department of Informatics, University of Piraeus.<br>
+🌱 I’m currently learning GCP and Kotlin and LangChain.<br>
 
 [![](https://visitcount.itsvg.in/api?id=thkox&icon=10&color=1)](https://visitcount.itsvg.in)
 
